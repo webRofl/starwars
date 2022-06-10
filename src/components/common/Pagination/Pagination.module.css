@@ -1,0 +1,18 @@
+.pagination__wrapper {
+    position: fixed;
+    margin-top: 90vh;
+}
+
+.pagination__digitPagination {
+    cursor: pointer;
+    margin-right: 15px;
+    font-size: 35px;
+}
+
+.pagination__digitPagination:hover {
+    border-bottom: 1px solid #000;
+}
+
+.pagination__digitPagination_active {
+    border-bottom: 1px solid #000;
+}
