@@ -71,5 +71,5 @@ $ npm start
 
 <br />
 
-[1]: https://webrofl.github.io/starwars/people
+[1]: https://webrofl.github.io/starwars/#/people
 [2]: https://nodejs.org/
