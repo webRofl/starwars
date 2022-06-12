@@ -38,7 +38,6 @@
   - css-modules
   - React-hooks
   - React-context
-  - React-testing-library
 
 <br />
 
